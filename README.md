@@ -2,7 +2,6 @@
 
 ---
 
-## English Version
 
 <p align="center">
 
@@ -24,7 +23,6 @@ A passionate **Software Engineer** and dedicated **English Teacher** from Bogot�
 
 ---
 
-## Versión en Español
 
 <p align="center">
 
