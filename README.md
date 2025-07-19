@@ -5,7 +5,7 @@
 ## English Version
 
 <p align="center">
-  <img src="leonardo.jpg" alt="Leonardo Mosquera" width="150">
+
 </p>
 
 ### Hi, I'm Leonardo Mosquera Rodríguez!
@@ -27,7 +27,7 @@ A passionate **Software Engineer** and dedicated **English Teacher** from Bogot�
 ## Versión en Español
 
 <p align="center">
-  <img src="leonardo.jpg" alt="Leonardo Mosquera" width="150">
+
 </p>
 
 ### ¡Hola, soy Leonardo Mosquera Rodríguez!
